@@ -1,4 +1,1 @@
-# simply testing the pull command :P
- testing again
- 
- testing branch
+This project is only for testing purposes
